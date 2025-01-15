@@ -33,3 +33,7 @@ Using our DLC packs, on supported apps, get a romanization of the official Japan
 If you know of a language pack provider that hosts an Aura Mirror version of their packs, you can instantly add it by going to "Tinker Around > Sources" and adding the URL to the JSON manifest.
 
 Otherwise, download the language pack, and directly load it by clicking the dropdown next to "Install Aura Lowkey", and click "Disk Load."
+
+## Oh, and one more thing...
+This app is 100% **open-source**.<br/>
+*Now that's REAL aura.*
